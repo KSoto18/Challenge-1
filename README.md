@@ -10,13 +10,14 @@ Depends on an up to date web browser to open like Google Chrome, Firefox, Micros
 ## Installing
 N/A.
 
-## Version History
-0.1
-Bug fixes and optimizations
-See commits for changes and relese history.
+## Preview of Website
+![Header](./assets/images/Screenshot%202022-09-22%20114311.png)
+![Content](./assets/images/Screenshot%202022-09-22%20114337.png)
+![Footer](./assets/images/Screenshot%202022-09-22%20114352.png)
 
+## Link to Website
+
+[Horiseon Website](https://ksoto18.github.io/Challenge-1/)
 
 ## License
 See Repo License.
-
-
